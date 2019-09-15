@@ -1,2 +1,2 @@
-# oil-config
+# config
 Sistema OIL
